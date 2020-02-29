@@ -18,11 +18,11 @@ statements, forcing a new password to be generated until the selected criteria i
 
 The following images display the websites functionality:
 
-[Prompt demo -Screenshot](./Assets/Prompt.png)
-[Numbers confirmation -Screenshot](./Assets/NumbersPrompt.png)
-[Console Displaying loop when criteria wasn't met -Screenshot](./Assets/Console-False.png)
+-[Prompt demo -Screenshot](./Assets/Prompt.png)
+-[Numbers confirmation -Screenshot](./Assets/NumbersPrompt.png)
+-[Console Displaying loop when criteria wasn't met -Screenshot](./Assets/Console-False.png)
 
 Visit the site & view the code here:
 
-https://mscoulte.github.io/Homework-3/
-https://github.com/mscoulte/Homework-3/tree/master
+-https://mscoulte.github.io/Homework-3/
+-https://github.com/mscoulte/Homework-3/tree/master
