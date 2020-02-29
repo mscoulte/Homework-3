@@ -18,9 +18,9 @@ statements, forcing a new password to be generated until the selected criteria i
 
 The following images display the websites functionality:
 
--[Prompt demo -Screenshot](Assets/Prompt.png)
--[Numbers confirmation -Screenshot](Assets/NumbersPrompt.png)
--[Console Displaying loop when criteria wasn't met -Screenshot](Assets/Console-False.png)
+-[Prompt demo -Screenshot](./Assets/Prompt.PNG)
+-[Numbers confirmation -Screenshot](./Assets/NumbersPrompt.PNG)
+-[Console Displaying loop when criteria wasn't met -Screenshot](./Assets/Console-False.PNG)
 
 Visit the site & view the code here:
 
